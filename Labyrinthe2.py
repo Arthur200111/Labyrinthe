@@ -55,4 +55,3 @@ liste = [
 ]
 
 Labyrinthe(liste, coord)
-input()
